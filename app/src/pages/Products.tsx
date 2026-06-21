@@ -26,7 +26,7 @@ const products: Product[] = [
     standards: 'ISO 1167, ASTM D1598',
     specTags: ['Up to 160 bar', 'Multi-station', 'Digital Timer', 'Auto Pressure Control'],
     description: 'Tests long-term pressure resistance of thermoplastic pipes under controlled temperature and pressure conditions.',
-    image: '/machine-hydrostatic.png',
+    image: '/machine-hydrostatic.webp',
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ const products: Product[] = [
     standards: 'ISO 1167, ASTM D1599',
     specTags: ['Digital Display', 'Auto Test Cycle', 'Safety Enclosure', 'Data Logging'],
     description: 'Determines the maximum burst pressure capacity of plastic pipes with digital precision and automatic testing cycles.',
-    image: '/machine-bursting.png',
+    image: '/machine-bursting.webp',
   },
   {
     id: 3,
@@ -46,7 +46,7 @@ const products: Product[] = [
     standards: 'EN 744, ISO 3127',
     specTags: ['Falling Weight', '0.5-2kg Range', 'Digital Counter', 'EN/ISO Compliant'],
     description: 'Evaluates impact resistance of plastic pipes using standardized falling weight method for quality certification.',
-    image: '/machine-impact.png',
+    image: '/machine-impact.webp',
   },
   {
     id: 4,
@@ -56,7 +56,7 @@ const products: Product[] = [
     standards: 'ISO 9969, EN 1228',
     specTags: ['Flat Plate', 'Deformation Meas.', 'Load Cell', 'PC Interface'],
     description: 'Measures structural rigidity and deformation resistance of plastic pipes under radial load conditions.',
-    image: '/machine-ring-stiffness.png',
+    image: '/machine-ring-stiffness.webp',
   },
   {
     id: 5,
@@ -66,7 +66,7 @@ const products: Product[] = [
     standards: 'ISO 527, ASTM D638',
     specTags: ['50kN Capacity', 'Servo Motor', 'Auto Graph', 'Extensometer'],
     description: 'Accurately measures tensile strength, elongation at break, and modulus of elasticity for pipe materials.',
-    image: '/machine-tensile.png',
+    image: '/machine-tensile.webp',
   },
   {
     id: 6,
@@ -76,7 +76,7 @@ const products: Product[] = [
     standards: 'ISO 306, ASTM D1525',
     specTags: ['300°C Max Temp', 'Bath Method', 'Digital Display', 'Sample Support'],
     description: 'Determines the temperature at which plastic pipes soften under standardized load and heating conditions.',
-    image: '/machine-vicat.png',
+    image: '/machine-vicat.webp',
   },
   {
     id: 7,
@@ -86,7 +86,7 @@ const products: Product[] = [
     standards: 'ISO 1133, ASTM D1238',
     specTags: ['400°C Max', 'Auto Cut', 'Die Included', 'Compact Design'],
     description: 'Measures the flow rate of molten thermoplastic material to ensure batch consistency and material quality.',
-    image: '/machine-melt-flow.png',
+    image: '/machine-melt-flow.webp',
   },
   {
     id: 8,
@@ -96,7 +96,7 @@ const products: Product[] = [
     standards: 'ISO 3127, EN 744',
     specTags: ['Precise Notching', 'Adjustable Angle', 'V-Notch', 'Manual/Electric'],
     description: 'Precisely prepares pipe samples with standardized notches for Charpy and Izod impact testing protocols.',
-    image: '/machine-notching.png',
+    image: '/machine-notching.webp',
   },
 ];
 

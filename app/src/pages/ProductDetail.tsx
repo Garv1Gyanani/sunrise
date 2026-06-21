@@ -42,7 +42,7 @@ const machinesData: MachineData[] = [
     slug: 'hydrostatic-pressure-test',
     category: 'Pressure Testing',
     tagline: 'Tests long-term pressure resistance of thermoplastic pipes under controlled conditions',
-    image: '/machine-hydrostatic.png',
+    image: '/machine-hydrostatic.webp',
     description: 'The Hydrostatic Pressure Test Apparatus is designed to evaluate the long-term pressure resistance of thermoplastic pipes. It subjects pipe samples to sustained internal pressure at controlled temperatures, allowing manufacturers to determine the pipes\' ability to withstand operational stress over extended periods. The multi-station configuration enables simultaneous testing of multiple samples, significantly improving laboratory throughput. Our microprocessor-controlled system ensures precise pressure regulation with automatic correction and real-time monitoring.',
     quickSpecs: [
       { label: 'Max Pressure', value: '160 bar' },
@@ -85,7 +85,7 @@ const machinesData: MachineData[] = [
     slug: 'bursting-pressure-test',
     category: 'Pressure Testing',
     tagline: 'Determines the maximum burst pressure capacity of plastic pipes with digital precision',
-    image: '/machine-bursting.png',
+    image: '/machine-bursting.webp',
     description: 'The Bursting Pressure Testing Machine determines the maximum internal pressure a plastic pipe can withstand before rupture. This critical quality test ensures pipes meet safety standards for high-pressure applications including water distribution, industrial piping, and gas transmission. Our digitally controlled system provides automatic pressure ramping, precise burst detection, and comprehensive data logging for full traceability.',
     quickSpecs: [
       { label: 'Max Pressure', value: '250 bar' },
@@ -128,7 +128,7 @@ const machinesData: MachineData[] = [
     slug: 'impact-testing',
     category: 'Impact & Strength',
     tagline: 'Evaluates impact resistance of plastic pipes using standardized falling weight method',
-    image: '/machine-impact.png',
+    image: '/machine-impact.webp',
     description: 'The Impact Testing Machine uses the falling weight method to assess the impact resistance of plastic pipes and fittings. This test is essential for determining how well pipes withstand sudden external forces during transportation, installation, and service life. The machine features adjustable drop heights, interchangeable impactors, and a digital counter for precise, repeatable testing compliant with EN and ISO standards.',
     quickSpecs: [
       { label: 'Weight Range', value: '0.5-2 kg' },
@@ -171,7 +171,7 @@ const machinesData: MachineData[] = [
     slug: 'ring-stiffness-test',
     category: 'Impact & Strength',
     tagline: 'Measures structural rigidity and deformation resistance of plastic pipes under radial load',
-    image: '/machine-ring-stiffness.png',
+    image: '/machine-ring-stiffness.webp',
     description: 'The Ring Stiffness Testing Machine measures the resistance of thermoplastic pipes to diametral deformation. This test is critical for buried pipe applications where external soil loads can cause deflection. The machine applies a controlled compressive force perpendicular to the pipe axis and measures deflection to calculate ring stiffness — a key parameter for pipeline structural design.',
     quickSpecs: [
       { label: 'Max Load', value: '50 kN' },
@@ -214,7 +214,7 @@ const machinesData: MachineData[] = [
     slug: 'tensile-testing',
     category: 'Impact & Strength',
     tagline: 'Accurately measures tensile strength, elongation, and modulus of pipe materials',
-    image: '/machine-tensile.png',
+    image: '/machine-tensile.webp',
     description: 'The Tensile Testing Machine provides comprehensive mechanical characterization of plastic pipe materials including tensile strength, elongation at break, and Young\'s modulus. These properties are fundamental to material specification and quality control. The servo-motor driven system ensures smooth, precise load application with automatic graph generation and data export capabilities.',
     quickSpecs: [
       { label: 'Capacity', value: '50 kN' },
@@ -257,7 +257,7 @@ const machinesData: MachineData[] = [
     slug: 'vicat-softening-point',
     category: 'Thermal & Material',
     tagline: 'Determines the temperature at which plastic pipes soften under standardized load conditions',
-    image: '/machine-vicat.png',
+    image: '/machine-vicat.webp',
     description: 'The Vicat Softening Point Apparatus determines the temperature at which a plastic specimen softens under a specified load and heating rate. This critical thermal property helps manufacturers ensure their pipes can withstand service temperatures without deformation. Our digital-controlled unit provides precise temperature ramping, automatic needle penetration detection, and reliable repeatability for PVC, CPVC, and other thermoplastic materials.',
     quickSpecs: [
       { label: 'Max Temp', value: '300°C' },
@@ -300,7 +300,7 @@ const machinesData: MachineData[] = [
     slug: 'melt-flow-index',
     category: 'Thermal & Material',
     tagline: 'Measures the flow rate of molten plastic to ensure material consistency and quality',
-    image: '/machine-melt-flow.png',
+    image: '/machine-melt-flow.webp',
     description: 'The Melt Flow Index (MFI) Tester measures the rate of extrusion of molten thermoplastic material through a standardized die under specific temperature and load conditions. MFI is a key quality control parameter that indicates material viscosity grade and batch consistency. Our compact, benchtop design features automatic sample cutting, precise temperature control, and digital display for quick, reliable testing in any laboratory.',
     quickSpecs: [
       { label: 'Max Temp', value: '400°C' },
@@ -343,7 +343,7 @@ const machinesData: MachineData[] = [
     slug: 'pipe-notching',
     category: 'Sample Prep',
     tagline: 'Precisely prepares pipe samples with notches for Charpy and Izod impact testing',
-    image: '/machine-notching.png',
+    image: '/machine-notching.webp',
     description: 'The Pipe Notching Machine creates precise V-notches and U-notches in plastic pipe samples for subsequent impact testing. Accurate notch geometry is critical for reliable Charpy and Izod test results. Our machine features adjustable cutting angle, depth control, and smooth cutting action that produces consistent notches without stress cracking or material deformation.',
     quickSpecs: [
       { label: 'Notch Type', value: 'V / U' },

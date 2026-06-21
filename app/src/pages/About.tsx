@@ -99,7 +99,7 @@ function PageHero() {
         style={{ y: bgY }}
       >
         <img
-          src="/pipes-water-hero.png"
+          src="/pipes-water-hero.webp"
           alt=""
           className="w-full h-full object-cover opacity-[0.12]"
         />
@@ -253,7 +253,7 @@ function OurStory() {
             style={{ boxShadow: '0 8px 32px rgba(43,27,14,0.08)' }}
           >
             <img
-              src="/about-facility.jpg"
+              src="/about-facility.webp"
               alt="Sunrise Enterprises manufacturing facility in Jaipur"
               className="w-full aspect-[4/3] object-cover"
             />
@@ -678,7 +678,7 @@ function FacilitySection() {
               style={{ boxShadow: '0 8px 32px rgba(43,27,14,0.08)' }}
             >
               <img
-                src="/about-facility.jpg"
+                src="/about-facility.webp"
                 alt="Sunrise Enterprises manufacturing facility"
                 className="w-full aspect-square object-cover"
               />

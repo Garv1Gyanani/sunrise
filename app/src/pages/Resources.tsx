@@ -105,7 +105,7 @@ function PageHero() {
 const certifications = [
   {
     icon: Award,
-    image: '/cert-iso.jpg',
+    image: '/cert-iso.webp',
     title: 'ISO 9001:2015 Quality Management',
     description:
       'Our quality management system is certified to ISO 9001:2015, ensuring consistent processes from design to delivery.',
@@ -113,7 +113,7 @@ const certifications = [
   },
   {
     icon: Shield,
-    image: '/cert-ce.jpg',
+    image: '/cert-ce.webp',
     title: 'CE Marking Certification',
     description:
       'Select machines carry CE marking for European conformity, meeting EU safety, health, and environmental requirements.',

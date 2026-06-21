@@ -16,14 +16,14 @@ gsap.registerPlugin(ScrollTrigger);
 /* ─────────────────── DATA ─────────────────── */
 
 const products = [
-  { name: 'Hydrostatic Pressure Test Apparatus', spec: 'Up to 160 bar, multi-station', slug: 'hydrostatic-pressure-test', image: '/machine-hydrostatic.png' },
-  { name: 'Bursting Pressure Testing Machine', spec: 'Digital display, automatic test', slug: 'bursting-pressure-test', image: '/machine-bursting.png' },
-  { name: 'Impact Testing Machine (Falling Weight)', spec: 'EN 744/ISO 3127 compliant', slug: 'impact-testing', image: '/machine-impact.png' },
-  { name: 'Ring Stiffness Testing Machine', spec: 'ISO 9969, EN 1228 standard', slug: 'ring-stiffness-test', image: '/machine-ring-stiffness.png' },
-  { name: 'Tensile Testing Machine', spec: '50kN capacity, servo-controlled', slug: 'tensile-testing', image: '/machine-tensile.png' },
-  { name: 'Vicat Softening Point Apparatus', spec: 'ISO 306, ASTM D1525', slug: 'vicat-softening-point', image: '/machine-vicat.png' },
-  { name: 'Melt Flow Index Tester', spec: 'ISO 1133, ASTM D1238', slug: 'melt-flow-index', image: '/machine-melt-flow.png' },
-  { name: 'Pipe Notching Machine', spec: 'Precise sample preparation', slug: 'pipe-notching', image: '/machine-notching.png' },
+  { name: 'Hydrostatic Pressure Test Apparatus', spec: 'Up to 160 bar, multi-station', slug: 'hydrostatic-pressure-test', image: '/machine-hydrostatic.webp' },
+  { name: 'Bursting Pressure Testing Machine', spec: 'Digital display, automatic test', slug: 'bursting-pressure-test', image: '/machine-bursting.webp' },
+  { name: 'Impact Testing Machine (Falling Weight)', spec: 'EN 744/ISO 3127 compliant', slug: 'impact-testing', image: '/machine-impact.webp' },
+  { name: 'Ring Stiffness Testing Machine', spec: 'ISO 9969, EN 1228 standard', slug: 'ring-stiffness-test', image: '/machine-ring-stiffness.webp' },
+  { name: 'Tensile Testing Machine', spec: '50kN capacity, servo-controlled', slug: 'tensile-testing', image: '/machine-tensile.webp' },
+  { name: 'Vicat Softening Point Apparatus', spec: 'ISO 306, ASTM D1525', slug: 'vicat-softening-point', image: '/machine-vicat.webp' },
+  { name: 'Melt Flow Index Tester', spec: 'ISO 1133, ASTM D1238', slug: 'melt-flow-index', image: '/machine-melt-flow.webp' },
+  { name: 'Pipe Notching Machine', spec: 'Precise sample preparation', slug: 'pipe-notching', image: '/machine-notching.webp' },
 ];
 
 const features = [
@@ -141,7 +141,7 @@ export default function Home() {
         <div
           className="hero-bg absolute inset-0 z-0"
           style={{
-            backgroundImage: 'url(/pipes-water-hero.png)',
+            backgroundImage: 'url(/pipes-water-hero.webp)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
           }}
@@ -486,7 +486,7 @@ function IndustriesPreview() {
               key={i}
               className="relative rounded-2xl overflow-hidden min-h-[320px] flex flex-col justify-end p-6 transition-all duration-300 hover:-translate-y-1"
               style={{
-                backgroundImage: `linear-gradient(180deg, rgba(43,27,14,0.1) 0%, rgba(42,23,11,0.85) 100%), url(/industry-${['pvc', 'hdpe', 'irrigation', 'lab'][i]}.jpg)`,
+                backgroundImage: `linear-gradient(180deg, rgba(43,27,14,0.1) 0%, rgba(42,23,11,0.85) 100%), url(/industry-${['pvc', 'hdpe', 'irrigation', 'lab'][i]}.webp)`,
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
               }}
