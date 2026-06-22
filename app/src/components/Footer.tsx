@@ -112,8 +112,7 @@ export default function Footer() {
             </h4>
             <div className="space-y-3 font-body text-[14px]" style={{ color: 'rgba(254,243,226,0.5)' }}>
               <p>
-                F-91, Road No. 6, VKI Area,<br />
-                Jaipur, Rajasthan - 302013
+                Plot no 3 sarna dungar industrial area jaipur
               </p>
               <p>
                 <a href="tel:+919829050308" className="hover:text-[#F3C623] transition-colors">

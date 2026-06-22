@@ -350,7 +350,7 @@ Each card shows: industry name, description, relevant machine links (3 per indus
 | Detail | Value |
 |---|---|
 | Company | Sunrise Enterprises |
-| Address | F-91, Road No. 6, VKI Area, Jaipur, Rajasthan - 302013 |
+| Address | Plot no 3 sarna dungar industrial area jaipur |
 | Plant Address | Plot no 3 sarna dungar industrial area jaipur |
 | Phone | +91 98290 50308 |
 | Alt Phone | +91 8949 444099 |
