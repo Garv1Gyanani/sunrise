@@ -2,7 +2,7 @@
 
 ## Company Info
 - **Name**: Sunrise Enterprises
-- **Location**: Plot No. 3, Sarna Doongar Industrial Area, Jaipur, Rajasthan, India
+- **Location**: Plot no 3 sarna dungar industrial area jaipur
 - **Phone**: 98290 50308 / 8949 444099
 - **Email**: jhabarmalchoudhary1974@gmail.com
 - **Tagline**: "Testing Innovation. Ensuring Quality."

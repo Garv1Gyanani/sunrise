@@ -388,7 +388,7 @@ const milestones = [
     year: '1998',
     title: 'Founded in Jaipur',
     description:
-      'Sunrise Enterprises established as a small precision engineering workshop in Sarna Doongar Industrial Area.',
+      'Sunrise Enterprises established as a small precision engineering workshop in sarna dungar industrial area.',
   },
   {
     year: '2003',
@@ -604,7 +604,7 @@ function TimelineItem({
 const facilityHighlights = [
   {
     icon: MapPin,
-    text: '10,000+ sq ft manufacturing facility in Sarna Doongar Industrial Area, Jaipur',
+    text: '10,000+ sq ft manufacturing facility in sarna dungar industrial area, jaipur',
   },
   {
     icon: Wrench,
@@ -755,10 +755,10 @@ function FacilitySection() {
                 <MapPin size={16} style={{ color: '#F3C623', flexShrink: 0, marginTop: '3px' }} />
                 <div>
                   <p className="font-body text-[14px] sm:text-[15px]" style={{ color: 'rgba(43,27,14,0.75)' }}>
-                    Plot No. 3, Sarna Doongar Industrial Area
+                    Plot no 3 sarna dungar industrial area
                   </p>
                   <p className="font-body text-[14px] sm:text-[15px]" style={{ color: 'rgba(43,27,14,0.75)' }}>
-                    Jaipur, Rajasthan - 302012, India
+                    jaipur
                   </p>
                 </div>
               </div>

@@ -663,9 +663,7 @@ export default function Contact() {
               {/* Address */}
               <InfoBlock icon={MapPin} title="Our Address">
                 <p className="font-body text-[15px] leading-relaxed" style={{ color: 'rgba(43,27,14,0.7)' }}>
-                  Plot No. 3, Sarna Doongar Industrial Area<br />
-                  Jaipur, Rajasthan — 302012<br />
-                  India
+                  Plot no 3 sarna dungar industrial area jaipur
                 </p>
               </InfoBlock>
 
@@ -785,10 +783,10 @@ export default function Contact() {
               transition={{ duration: 0.5, delay: 0.3, ease: [0.16, 1, 0.3, 1] as [number, number, number, number] }}
             >
               <p className="font-body text-[14px] leading-relaxed" style={{ color: 'rgba(254,243,226,0.8)' }}>
-                Plot No. 3, Sarna Doongar Industrial Area, Jaipur, Rajasthan
+                Plot no 3 sarna dungar industrial area jaipur
               </p>
               <a
-                href="https://www.google.com/maps/search/?api=1&query=Plot+No+3+Sarna+Doongar+Industrial+Area+Jaipur+Rajasthan"
+                href="https://www.google.com/maps/search/?api=1&query=Plot+no+3+sarna+dungar+industrial+area+jaipur"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 mt-3 font-body text-[14px] font-semibold transition-colors duration-200 hover:underline"
