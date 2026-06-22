@@ -119,7 +119,7 @@ export default function Navbar() {
       {isOpen && (
         <div
           className="fixed inset-0 top-[80px] lg:hidden flex flex-col items-center pt-16 gap-8"
-          style={{ backgroundColor: 'rgba(42,23,11,0.98)', zIndex: 60 }}
+          style={{ backgroundColor: '#2A170B', zIndex: 60 }}
         >
           {navLinks.map((link, i) => (
             <Link
